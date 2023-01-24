@@ -4,5 +4,5 @@
 
 <h2>Screengif</h2>
 
-![](gif.gif)
+<img src="gif.gif">
 
